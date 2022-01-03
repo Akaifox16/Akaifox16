@@ -1,7 +1,6 @@
 ### Hi there, I'm Kamonpat 👋
 
 ## I’m computer engineer student
-<br />
  - 💻 I want to be backend developer.
  - 🌱 I’m currently learning linux.
  - 💸 I'm finding job for my FFXIV Endwalker/subscriptions.
@@ -24,7 +23,7 @@ src="https://img.icons8.com/fluency/48/000000/laravel.png" />
 src="https://img.icons8.com/fluency/48/000000/python.png"/>
 <img alt="Graphql" align="left"
 src="https://img.icons8.com/color/48/000000/graphql.png"/>
-<img alt="MongoDB"
+<img alt="MongoDB" align="left"
 src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/>
-<img alt="MySQL"
+<img alt="MySQL" align="left"
 src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo.png"/>
