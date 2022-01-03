@@ -8,9 +8,9 @@
 ### Tools that i'm have experience with
 <br />
 <img alt="Visual Studio Code" align="left" 
-src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-visual-studio-code-is-a-source-code-editor-developed-by-microsoft-logo-color-tal-revivo.png"/>
 <img alt="Javascript" align="left"
-src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
+src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-javascript-is-a-high-level-interpreted-programming-language-logo-color-tal-revivo.png"/>
 <img alt="Typescript" align="left"
 src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-color-tal-revivo.png" />
 <img alt="React" align="left"
